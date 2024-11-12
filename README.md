@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prasad-abesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-abesinghe" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasad-abesinghe" alt="prasad-abesinghe" /></a></p>
-<p align="center">- 🔭 I’m currently working on **Dating App**
+<p align="center">- 🔭 I’m currently working on **Dating App**</p>
 
-- 🌱 I’m currently learning **Dart, Nextjs**
+<p align="center">- 🌱 I’m currently learning **Dart, Nextjs**</p>
 
-- 📫 How to reach me **lahiruprasad379@gmail.com**</p>
+<p align="center">- 📫 How to reach me **lahiruprasad379@gmail.com**</p>
 
 
 <h3 align="center">Connect with me:</h3>
