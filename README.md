@@ -8,7 +8,7 @@
 
 <p align="center">- 🌱 I’m currently learning **Dart, Nextjs**</p>
 
-<p align="center">- 📫 How to reach me **lahiruprasad379@gmail.com**</p>
+- 📫 How to reach me **lahiruprasad379@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
